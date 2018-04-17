@@ -1,0 +1,10 @@
+﻿  Renderer.cpp
+  tutorial14.cpp
+MSVCRT.lib(initializers.obj) : warning LNK4098: defaultlib 'libcmt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+Renderer.obj : error LNK2001: unresolved external symbol "public: void __thiscall MD5FileData::AddAnim(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?AddAnim@MD5FileData@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Renderer.obj : error LNK2001: unresolved external symbol "public: __thiscall MD5FileData::~MD5FileData(void)" (??1MD5FileData@@QAE@XZ)
+Renderer.obj : error LNK2001: unresolved external symbol "public: __thiscall MD5FileData::MD5FileData(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (??0MD5FileData@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Renderer.obj : error LNK2001: unresolved external symbol "public: void __thiscall MD5Node::PlayAnim(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?PlayAnim@MD5Node@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Renderer.obj : error LNK2001: unresolved external symbol "public: __thiscall MD5Node::~MD5Node(void)" (??1MD5Node@@QAE@XZ)
+Renderer.obj : error LNK2001: unresolved external symbol "public: __thiscall MD5Node::MD5Node(class MD5FileData const &)" (??0MD5Node@@QAE@ABVMD5FileData@@@Z)
+C:\Users\B7063277\Vprojects\Graphics Code 2015\Graphics For Games\Release\Tutorial 14 - Shadow Mapping.exe : fatal error LNK1120: 6 unresolved externals
