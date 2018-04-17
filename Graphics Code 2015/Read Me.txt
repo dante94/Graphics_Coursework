@@ -1,0 +1,13 @@
+Instructions:
+W = Move camera forward
+S = Move camera backward
+A = Move camera to the left
+D = Move camera to the Right
+Shift = Move camera up
+Space = Move camera down
+Right Arrow(->) = Go to the next scene
+Left Arrow(<-) = Go to the previous scene
+PAUSE = Cycle through all scenes. Press it again to stop
+Hold X = Constantly move the camera forward(Press it when you enter scene 3)
+
+Youtube link: https://www.youtube.com/watch?v=YYt8NFYkwFI&t=6s
